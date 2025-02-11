@@ -8,4 +8,3 @@
 ` git fetch origin `
 5. Pull the latest changes from the branch
 ` git pull origin main `
-
