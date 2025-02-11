@@ -2,12 +2,12 @@
 
 1. Open Git Bash/Terminal
 2. Navigate to Your Repository
-3. Check the Status
-` git status `
-4. Stage all changes
-` git add `
+3. Stage all changes
+` git add --all `
 or, stage a specific file
 ` git add filename.txt `
-5. Commit the Changes
+4. Commit the Changes
 ` git commit -m "Your commit message here" `
+5. Push into repo
+` git push `
 
