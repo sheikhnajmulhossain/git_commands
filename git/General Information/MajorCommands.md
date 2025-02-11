@@ -25,6 +25,7 @@ Use Case
 If you code on multiple devices, you may need to clone your repo everytime you start coding on a new device and delete the previous repo. Pulling updates your repo to the version you need, making the process easier.
 
 Tutorial for puling repo using terminal
+https://github.com/sheikh-niloy/Useful_Commands/blob/main/git/Terminal/Pull_into_existing_repo_from_terminal.md
 
 3. Commit Changes
 Commit changes basically means to save the changes you did and update it on git/github.
