@@ -1,7 +1,0 @@
-Nevigate 
-(cd /path/to/your/repo `)
-(cd /path/to/your/repo)
-```sh```sh
-cd /path/to/your/repo
-(cd /path/to/your/repo `)
-(cd /path/to/your/repo)

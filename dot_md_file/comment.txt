@@ -10,4 +10,3 @@ To show that there is a code/command you can use this-
 
 TO give a comment which can only be seen in the text editor/code you can use this, this will not be visible on the .md preview 
 <!-- this will not be seen on the .md preview but it will take space -->
-
