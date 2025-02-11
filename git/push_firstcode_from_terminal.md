@@ -15,7 +15,7 @@ Initialize Your Git Account
 Create repo from github and push code/file/folder using terminal
 1. Go to Github's webside
 ` https://github.com/ `
-2. click on new repo
+2. Click on new repo
 or, 
 Navigate to "Your repositories" and press on "New" option
 3. Give you repo a name, choose the privacy of the repo "Public/Private" and press "Create Repository"
