@@ -17,7 +17,7 @@ Tutorial for cloning repo using [vscode](https://github.com/sheikh-niloy/git_com
 3. Pull 
 Pulling basically means to pull the code on git. This can be used in various factors such us updating the repo on your current device filling up the missing codes/files/folders. 
 
-Use Case: 
+Use case: 
 If you code on multiple devices, you may need to clone your repo everytime you start coding on a new device and delete the previous repo. Pulling updates your repo to the version you need, making the process easier.
 
 Tutorial for puling repo using [terminal](https://github.com/sheikh-niloy/git_commands/blob/main/Documentation/Terminal/Pull_into_existing_repo_using_terminal.md)
