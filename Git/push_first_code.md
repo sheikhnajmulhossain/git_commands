@@ -2,5 +2,5 @@
 
 Setup Git
 1. Create Github Account
-2. 
-`<!-- This will be shown as code, not as a comment -->`
+2. Download git
+`<!-- https://git-scm.com/downloads -->`
