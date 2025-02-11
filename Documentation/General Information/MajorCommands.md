@@ -25,7 +25,4 @@ Tutorial for puling repo using [terminal](https://github.com/sheikh-niloy/git_co
 4. Commit Changes
 Commit changes basically means to save the changes you did and update it on git/github.
 
-Tutorial for commiting changes using terminal
-
-
 Tutorial for commiting changes using [vscode](https://github.com/sheikh-niloy/git_commands/blob/main/Documentation/vscode/commit_changes_using_vscode.md)
