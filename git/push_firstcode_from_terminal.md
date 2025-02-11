@@ -30,7 +30,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/sheikh-niloy/draft.git
+git remote add origin https://github.com/yourhttpsrepolink.git
 git push -u origin main `
 
 Your code has sucessfully pushed if all the steps has been followed properly. 
