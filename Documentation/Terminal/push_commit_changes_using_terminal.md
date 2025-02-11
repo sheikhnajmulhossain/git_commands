@@ -1,4 +1,4 @@
-# Commit changes using terminal
+# Commit changes and push into repo using terminal
 
 1. Open Git Bash/Terminal
 2. Navigate to Your Repository
