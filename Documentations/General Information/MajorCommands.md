@@ -5,7 +5,7 @@ Repo is the short form of repository, which is basically creating a folder in gi
 
 Tutorial for creating a repo using [terminal](https://github.com/sheikh-niloy/Useful_Commands/blob/main/git/Terminal/creating_repo_using_terminal.md)
 
-Tutorial for creating a repo using [vscode] (https://github.com/sheikh-niloy/Useful_Commands/blob/main/git/vscode/creating_repo_using_vscode.md)
+Tutorial for creating a repo using [vscode](https://github.com/sheikh-niloy/Useful_Commands/blob/main/git/vscode/creating_repo_using_vscode.md)
 
 2. Clone
 Cloning means to basically downloading a repo from git/github
