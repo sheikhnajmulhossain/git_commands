@@ -3,8 +3,7 @@
 1. Repo
 Repo is the short form of repository, which is basically creating a folder in git/github on which you can store file, code, folder etc
 
-Tutorial for creating a repo using [terminal] 
-(https://github.com/sheikh-niloy/Useful_Commands/blob/main/git/Terminal/creating_repo_using_terminal.md)
+Tutorial for creating a repo using [terminal](https://github.com/sheikh-niloy/Useful_Commands/blob/main/git/Terminal/creating_repo_using_terminal.md)
 
 Tutorial for creating a repo using vscode
 https://github.com/sheikh-niloy/Useful_Commands/blob/main/git/vscode/creating_repo_using_vscode.md
