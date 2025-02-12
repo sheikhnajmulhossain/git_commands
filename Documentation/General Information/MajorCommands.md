@@ -25,6 +25,6 @@ Tutorial for puling repo using [terminal](https://github.com/sheikh-niloy/git_co
 4. Commit Changes: 
 Commit changes basically means to save the changes you did and update it on git/github.
 
-Tutorial for commiting changes using [vscode](https://github.com/sheikh-niloy/git_commands/blob/main/Documentation/vscode/commit_changes_using_vscode.md)
-
 Tutorial for commiting changes using [terminal](https://github.com/sheikh-niloy/git_commands/blob/main/Documentation/Terminal/push_commit_changes_using_terminal.md)
+
+Tutorial for commiting changes using [vscode](https://github.com/sheikh-niloy/git_commands/blob/main/Documentation/vscode/commit_changes_using_vscode.md)
