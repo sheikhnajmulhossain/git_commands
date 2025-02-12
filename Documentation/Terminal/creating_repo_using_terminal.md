@@ -9,8 +9,8 @@ Setup Git
 Initialize Your Git Account 
 1. Navigate/Open Git Bash
 2. Connect your github account 
-` git config user.email "niloy@example.com" `
-` git config user.name "username" `
+` git config --global user.email "niloy@example.com" `
+` git config --global user.name "username" `
 
 Create repo from github and push code/file/folder using terminal
 1. Go to Github's webside
