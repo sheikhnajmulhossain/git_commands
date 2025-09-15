@@ -1,0 +1,17 @@
+# Creating new branch
+` git branch branchname `
+
+# Check all the branch names
+` git branch -a `
+
+# Go to a branch 
+` git checkout branchname ` 
+
+# commit the changes 
+` git commit -m "commitmsg" `
+
+# Go to main/master branch 
+` git checkout master/main ` 
+
+# merge with a branch 
+` git merge branchname ` 
